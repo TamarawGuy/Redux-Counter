@@ -1,6 +1,6 @@
 import Counter from "./Counter";
 
-const Application = () => {
+const App = () => {
   return (
     <div className="Application">
       <Counter />
@@ -8,4 +8,4 @@ const Application = () => {
   );
 };
 
-export default Application;
+export default App;
